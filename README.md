@@ -1,7 +1,7 @@
 # Cost-Management
 Here's a comprehensive `README.md` file for your Cost Management API project:
 
-```markdown
+
 # Cost Management API
 
 A comprehensive API for managing business costs, invoices, and tax calculations built with ASP.NET Core.
