@@ -1,6 +1,4 @@
 # Cost-Management
-Here's a comprehensive `README.md` file for your Cost Management API project:
-
 
 # Cost Management API
 
