@@ -139,20 +139,3 @@ Content-Type: application/json
 
 For any questions or support, please contact [Abdelrahman_Hesham@outlook.com].
 ```
-
-This README includes:
-
-1. Project overview and features
-2. API endpoint documentation
-3. Setup and installation instructions
-4. Sample requests and data structures
-5. Development notes and future plans
-6. License information
-
-You can customize:
-- The contact information
-- License type
-- Specific installation instructions for your environment
-- Any additional project-specific details
-
-Would you like me to add any specific sections or modify any part of this README?
