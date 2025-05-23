@@ -134,13 +134,10 @@ Content-Type: application/json
 4. Support PDF invoice generation
 5. Add bulk operations
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-For any questions or support, please contact [your email].
+For any questions or support, please contact [Abdelrahman_Hesham@outlook.com].
 ```
 
 This README includes:
